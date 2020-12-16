@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 * {
  margin: 0px;
  padding: 0px;
@@ -20,7 +21,7 @@ body{
   margin-left: 2%;
 }
 #info h1{
-  font-family: Edwardian Script ITC;
+  font-family: 'Great Vibes', cursive;
   font-size: 34px;
   color: white;
 }
